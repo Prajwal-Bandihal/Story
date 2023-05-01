@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 We try,we fail,we fall,we rise, we try again, we win.
+=======
+You try,you fail,you fall,you rise, you try again, you win.
+>>>>>>> extra-plot
